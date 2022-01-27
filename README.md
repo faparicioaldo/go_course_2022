@@ -9,6 +9,7 @@ In this course I learned golang
 
 [Golang tutorial for beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU&t=10080s)
 
+```
 0:00:00 Introduction
 0:16:57 Setting Up a Development Environment
 
@@ -21,8 +22,6 @@ Variables
 52:00 Conversion using Itoa()
 53:00 Variable Summary
 
-
-
 Array and Slices
 01:49:26 Array declaration
 01:51:20 Array declaration literal syntax
@@ -34,7 +33,6 @@ Array and Slices
 02:08:03 Slice merge using spread
 02:09:15 Stack operation in slice
 02:12:48 Array & Slice Summary
-
 
 Maps & Struct
 02:20:48 Ways to create map
@@ -60,6 +58,7 @@ If and Switch Statements
 03:30:03 While loop with for
 03:33:25 Breaking from all the inner loops
 03:34:50 Loop through collection (range)
+
 3:41:34 Defer, Panic, and Recover
 03:42:50 Defer
 03:45:00 Defer use case
@@ -72,13 +71,13 @@ If and Switch Statements
 03:56:42 Try Catch - Panic, Defer, Recover
 03:59:35 Summary - defer, panic, recovery.
 
-
 4:03:57 Pointers
 04:04:30 pointers intro
 04:09:54 No pointer arithmetic
 04:13:06 Pointer default value nil
 04:17:10 Slice & Map are reference type
 04:18:22 Reference & Value types
+
 4:21:30 Functions
 04:27:33 If arguments are same type
 04:30:00 Why to pass pointer to function*
@@ -90,7 +89,6 @@ If and Switch Statements
 04:42:33 Anonymous function
 04:47:31 Function as methods**
 04:50:50 Summary
-
 
 4:57:59 Interfaces
 05:00:00 Interface example
@@ -105,5 +103,4 @@ If and Switch Statements
 05:20:06 Pointer receiver interface !!!???
 05:23:44 Interface best practices
 05:27:27 Summary
-
-
+```
